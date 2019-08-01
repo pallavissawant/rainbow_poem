@@ -5,3 +5,5 @@ orange
 yellow
 blue
 violet
+These are the colours of rainbow.
+the unicorns flying over the rainbow.
