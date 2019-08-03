@@ -2,8 +2,11 @@ red
 blue
 green
 orange
+lavendar
 yellow
 blue
+Cyan
 violet
 These are the colours of rainbow.
 the unicorns flying over the rainbow.
+Ponies and fairies go together...
